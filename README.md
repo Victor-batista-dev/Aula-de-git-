@@ -1,4 +1,4 @@
-Curso EBAC FRONT END 
+EXERCICIO GIT
 
 Ecercicio EBAC sobra Git
 
